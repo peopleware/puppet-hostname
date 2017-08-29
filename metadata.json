@@ -1,0 +1,11 @@
+{
+  "author": "peopleware",
+  "dependencies": [],
+  "description": "Sets the hostname to the certificate name.",
+  "license": "Apache-2.0",
+  "name": "peopleware-hostname",
+  "project_page": "https://github.com/peopleware/puppet-hostname",
+  "source": "https://github.com/peopleware/puppet-hostname",
+  "summary": "Sets the hostname to the certificate name",
+  "version": "0.0.2"
+}
