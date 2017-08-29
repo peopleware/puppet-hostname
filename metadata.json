@@ -2,6 +2,7 @@
   "author": "peopleware",
   "dependencies": [],
   "description": "Sets the hostname to the certificate name.",
+  "issues_url": "https://github.com/peopleware/puppet-hostname/issues",
   "license": "Apache-2.0",
   "name": "peopleware-hostname",
   "project_page": "https://github.com/peopleware/puppet-hostname",
