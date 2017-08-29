@@ -5,7 +5,7 @@ class hostname {
     owner   => root,
     group   => root,
     mode    => '0644',
-    content => "$::clientcert\n",
+    content => "${::clientcert}\n",
     notify  => Exec['set-hostname'],
   }
 
