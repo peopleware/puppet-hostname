@@ -1,10 +1,15 @@
 {
-  "author": "peopleware",
-  "dependencies": [],
-  "description": "Sets the hostname to the certificate name.",
-  "issues_url": "https://github.com/peopleware/puppet-hostname/issues",
-  "license": "Apache-2.0",
   "name": "peopleware-hostname",
+  "version": "1.0.0",
+  "author": "peopleware",
+  "summary": "Sets the hostname to the certificate name",
+  "license": "Apache-2.0",
+  "source": "https://github.com/peopleware/puppet-hostname",
+  "project_page": "https://github.com/peopleware/puppet-hostname",
+  "issues_url": "https://github.com/peopleware/puppet-hostname/issues",
+  "dependencies": [
+
+  ],
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
@@ -24,8 +29,5 @@
       ]
     }
   ],
-  "project_page": "https://github.com/peopleware/puppet-hostname",
-  "source": "https://github.com/peopleware/puppet-hostname",
-  "summary": "Sets the hostname to the certificate name",
-  "version": "1.0.0"
+  "description": "Sets the hostname to the certificate name."
 }
