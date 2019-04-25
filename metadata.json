@@ -27,5 +27,5 @@
   "project_page": "https://github.com/peopleware/puppet-hostname",
   "source": "https://github.com/peopleware/puppet-hostname",
   "summary": "Sets the hostname to the certificate name",
-  "version": "0.0.3"
+  "version": "1.0.0"
 }
