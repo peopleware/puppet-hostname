@@ -3,6 +3,7 @@
 ## 1.0.0 (2019-04-25)
 
 - Add supported operating systems: Debian 9, Debian 10, Ubuntu 18.04
+- Convert to pdk
 
 ## 0.0.3 (2017-08-29)
 

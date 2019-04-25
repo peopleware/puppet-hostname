@@ -29,5 +29,12 @@
       ]
     }
   ],
-  "description": "Sets the hostname to the certificate name."
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.10.0 < 7.0.0"
+    }
+  ],
+  "description": "Sets the hostname to the certificate name.",
+  "pdk-version": "1.10.0"
 }
